@@ -1,6 +1,5 @@
 # Coursera_tidying
 # Repo for Coursera assignment, Getting and Cleaning data course, week 4. 
-# If this assignment is really supposed to take two hours then I need to put much more effort in learning how to get and clean data, because it has taken me much much longer than that.
 # Packages used are dplyr and tidyr.
 # I have not written functions to programmatically tidy the data set. Instead, I have worked interactively at the R console.
 # Comments are inserted in the code to explain almost each step.
@@ -12,3 +11,4 @@
 # 5. Also need to convert all values of the final tidy dataset to numeric because for some reason when trying afterwards to calculate the cariable means, error messages showed they were not numeric.
 # 6. Both dataset requested, tidy dataset and means dataset, exported as csv files to enjoy their beauty.
 # Note: I am convinced that the team of researchers who conducted the wearable computing experiment is a group of great electronic engineers, but in my humble opinion they should take this course right away.
+# If this assignment is really supposed to take two hours then I need to put much more effort in learning how to get and clean data, because it has taken me much much longer than that.
