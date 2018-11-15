@@ -1,24 +1,26 @@
 Wearables computing exercise code book
 
-I have imported and respected all variables names used by the reasearchers. I have just cleaned them a little, to remove dashes. The meaning of the variables and the units in which they are expressed are the ones explained in the original research code book, or readme file.
-Example:
+I have imported and respected all variables names used by the reasearchers, included mainly in the "features.txt" file. 
+I have just cleaned the names a little to remove dashes. 
+The meaning of the variables and the units in which they are expressed are the ones explained in the original research code book, 
+or readme file.
+Examples of the variable names that I have used:
 tBodyAccmean()X	tBodyAccmean()Y	tBodyAccmean()Z	tBodyAccstd()X… 
 
 There are in total 66 extracted variables, whose means are calculated in the second part of the exercise.
 Plus, the variables for subjects and activities:
-subject: numbers 1 to 30 for the individuals that were subjects in the study.
-activity: id number for each of the six activity types
-activityname: name of the activity, i.e.:
-activityname
-LAYING
-SITTING
-STANDING
-WALKING
-WALKING_DOWNSTAIRS
-WALKING_UPSTAIRS
+  subject: numbers 1 to 30 for the individuals that were subjects in the study.
+  activity: id number for each of the six activity types
+  activityname: name of the activity, i.e.:
+    LAYING
+    SITTING
+    STANDING
+    WALKING
+    WALKING_DOWNSTAIRS
+    WALKING_UPSTAIRS
 
 
-For reference, I have copied below the content of the original README file for the research.
+For reference, I have copied below the content of the researchers' original README file.
  
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
